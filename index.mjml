@@ -1,0 +1,186 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+           <mj-all  font-family="ibm plex serif"/>/>
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="white" width="600px">
+        <mj-section>
+            <mj-column width="100%">
+                <mj-image width="40px" src="img/logo.png" alt="Logo" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/FW44kflLk8MiiKmp0ARxi8g4YIyYaucoTukGF-QW9QBTuf3Z08Y3Zg1j1K1R6SrPJZ3ltM5KthPg8Fcm_SSwrpcJFMoaNWS9J3vG-WZmDfNQ72We9ddBKtRnc-Ky6JEI1B8HDqQglmkAj6Rn2Ax4QgFxKtYF0DZkDsY_AjONvq99TmqzULTOliy0J5xixi36BtD0CCuReDgnLya-RKIdM4ZqxMp1toTYdRgibT5rX8pzYKcpTQHJEKhQb2m-cN_94k7AAX8ZHbaOE5ksaDwvhRifR9igv18K3I1Rs8iKc3q8ghasPiHVWYcyTz3yJypGQbVrWs4bVMFxYrtFxfcf29y-1tOS" target="_blank"/>
+                <mj-text padding="25px 0" align="center" font-size="36px" font-weight="bold" color="#091e3f">
+                    Welcome To Sendinblue!
+                </mj-text>
+                <mj-image src="img/hero-image.png" alt="Hero image" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/H1xs7QAiFNTzO4zaWFHNYq6GyGh79ZyAoWBT9gyx8Hu6N3bkh28IZVu6zXM5MxxmuofeK5dAbKJ6rxv23vzc6iFVUD65go5BH54VCzlcmgBjGkar7FCHvsjmEwIw1Lljkf9hsoLlQ6ZXriHFbKFXJo1RNGS957Z_f13_-2EPVAIKTk8ob029KOZ2rUQsU2CwA-bnXzQWZA2t8pVHukUONdpsiwHmIf-Hl7pQ_0EJ6qC9KBfWG2EnzqBozq5HrY9s7zVr2dLDMPub8OJmrAWWHHTWyzCtePU85bNv6zxl0qDzVShRpb2O9dUFu5TK_KLvU9JapUGYkcOTzsNQAN25svEdjJtJ0V73ts4drfs" target="_blank" />
+                <mj-text font-size="14px" padding="15px 40px" line-height="20px">    
+                    Whether you’re here to send irresistible <strong>Marketing 
+                    Campaigns</strong>, reach your audience in real time via 
+                    <strong>Conversations</strong>, close more deals with 
+                    <strong>Sales CRM</strong>, or set up your 
+                    <strong>Transactional Emails</strong>, we've got you 
+                    covered.
+                </mj-text>
+                <mj-button border-radius="20px" width="150px" font-weight="bold" background-color="#0092ff" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/f-YbcuhYQFllNsiXJJQiDZyvABaxq5LrEDu2VnG8DcJ7RVFt6iHOeAWLwteG7zaniFNSS7GawkbogLyV7N5xqTHgeWkDI7PSH3hIUTE82BI3HQbXvkUJKH266BdM2uUyMLB_pxbxWLWSR4BndMn8aSFMIdbKZ_lu5OfOKgQtnBwB_ijyZh1RcUjP3bygn7r3TlMZBRVGZGsUWD3KX304N_VyaQwJU1K-cTkg4mHntvmWlQBrz0HO45FlTYuKv9sKuNXk6s1OMrnMs2z8CGC3zwk_fESy-Q2YL3vXpXXRBynmgD8FuzGJUT2IroJxXEfeLjPuoE4SqyKIgjAj-fyStv4FKWXWSlZ-AnYI4Io" target="_blank">
+                    Get Started
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-divider  border-width="1px" border-color="#F0F0F0"/>
+                <mj-text font-weight="bold" font-size="24px" padding="15px">
+                    Discover Sendinblue:<br>
+                    Your All-in-one Marketing & Sales Platform
+                </mj-text>
+                <mj-divider  border-width="1px" border-color="#F0F0F0"/>
+            </mj-column>
+        </mj-section>
+
+        <!-- Features Section -->
+        <mj-section>
+            <mj-column width="50%">
+                <mj-image src="img/marketing-pic.jpeg" alt="" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/WBV6XaEyXTqQ0wLTiJab7ZWgpldiUnSIGqeEYn2LzYDl6ryGCGsu9u4n1Vgl0z4wABSR466igP3gH6p9QDH2XnKXr_WKn4qBfIatBiKVLSDkMtrI5Fi17qd3XMFh0fPUvyvwTO-TDbpW2yVDw8hSQYB_7H9uPmYwvfJtZanTGvELchN9ci6--jLOXBPW3JEXjHNQwKz-Dyml9SYmM2J7_EnmssRm-SH2KjCD0tN-pIV3r4NzDdTz5USslMtq6u4ThyluXO_P9Y0nPxOppnggmcS6SK564v8OysZ87LuR0R5poNcu4qG8DGDs3aKx6HlZA65V6pmXPtp0c6bGPzyFF4VA0rlZz2nQ2YE5GJo" target="_blank"/>
+                <mj-text font-weight="bold" font-size="18px" font-family="georgia, times new roman, serif">
+                    Marketing Platform: Manage multi-channel campaigns
+                </mj-text>
+                <mj-text color="grey" line-height="20px" font-family="georgia, times new roman, serif">
+                    Spread the word with Email, SMS, WhatsApp (coming soon), and Push Notification campaigns. Scale your communications with Marketing Automation and never miss a beat. All of this with unlimited contacts to support you as you grow.
+                </mj-text>
+                <mj-text font-weight="bold" font-family="georgia, times new roman, serif">
+                    <a href="https://beeag.r.bh.d.sendibt3.com/tr/cl/WBV6XaEyXTqQ0wLTiJab7ZWgpldiUnSIGqeEYn2LzYDl6ryGCGsu9u4n1Vgl0z4wABSR466igP3gH6p9QDH2XnKXr_WKn4qBfIatBiKVLSDkMtrI5Fi17qd3XMFh0fPUvyvwTO-TDbpW2yVDw8hSQYB_7H9uPmYwvfJtZanTGvELchN9ci6--jLOXBPW3JEXjHNQwKz-Dyml9SYmM2J7_EnmssRm-SH2KjCD0tN-pIV3r4NzDdTz5USslMtq6u4ThyluXO_P9Y0nPxOppnggmcS6SK564v8OysZ87LuR0R5poNcu4qG8DGDs3aKx6HlZA65V6pmXPtp0c6bGPzyFF4VA0rlZz2nQ2YE5GJo" target="_blank" style="text-decoration: none; color:#0092ff">>   Try Marketing Platform</a>
+                </mj-text>
+
+                <mj-image src="img/sales-pic.jpeg" alt="" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/lwG8N-yt3kdVfZc7Br1u8AG9W_Uf9J0fZfTydVA4FRvJ1cBch-fhS360LGEnYKQ_2V9Ix8VLSBNxNreLY0rqeHMSlznYoioKGyiYFLKTLK3b16dbGztKuPA7OnnJIU6iEhsUx8BqqAoF-xwefGeXhlJDcFMTWCfkT71RDFQ12O5xHsTyPRDa0PZgGiYP4Eh5UhXo8QUfj5nuK855Kz3ONIl0GpuDkZHlFENymv_ESK19Znwkk3tNQrOvdTaBXmODQedVGAkMhWg4SMj9YUBEHFTC3MB2tNd9lkc7MPC8mBulAhpeq0WAeawdnf8krtdWO9Ym8LdRj8g97hZsNOo60fpgKRSKfQywpL-8ioW9i3CXP6I" target="_blank"/>
+                <mj-text font-weight="bold" font-size="18px" font-family="georgia, times new roman, serif">
+                    Sales CRM: Structure your sales pipeline and organize you team
+                </mj-text>
+                <mj-text color="grey" line-height="20px" font-family="georgia, times new roman, serif">
+                    Manage your sales process, keep track of deals, organize your team, and set goals and reminders to make sure you never miss an opportunity.                 
+                </mj-text>
+                <mj-text font-weight="bold" font-family="georgia, times new roman, serif">
+                    <a href="https://beeag.r.bh.d.sendibt3.com/tr/cl/lwG8N-yt3kdVfZc7Br1u8AG9W_Uf9J0fZfTydVA4FRvJ1cBch-fhS360LGEnYKQ_2V9Ix8VLSBNxNreLY0rqeHMSlznYoioKGyiYFLKTLK3b16dbGztKuPA7OnnJIU6iEhsUx8BqqAoF-xwefGeXhlJDcFMTWCfkT71RDFQ12O5xHsTyPRDa0PZgGiYP4Eh5UhXo8QUfj5nuK855Kz3ONIl0GpuDkZHlFENymv_ESK19Znwkk3tNQrOvdTaBXmODQedVGAkMhWg4SMj9YUBEHFTC3MB2tNd9lkc7MPC8mBulAhpeq0WAeawdnf8krtdWO9Ym8LdRj8g97hZsNOo60fpgKRSKfQywpL-8ioW9i3CXP6I" target="_blank" style="text-decoration: none; color:#0092ff">>   Try Sales CRM</a>
+                </mj-text>
+            </mj-column>
+
+            <mj-column width="50%">
+                <mj-image src="img/conversations-pic.jpeg" alt="" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/62L7kWV4UNofZU0fgmWvSgn33dSFcfEoZw0TsS2UyQhhErOGOka3IDb1LCGfU7VE-9NCYwP1_DLyFsaAJXyVDZDz4U-AtVbBsHSmGPHhTl7dVpNOwGWp9krl2-_WWlStOz8ewQ4Az-uvkYzF9SAfmYVAzRW3VLH4liP3q6qJtBfH7MteqFCXofFu1Vyk1YYg0WJvWWz2_T5AKhwHVGcsNy6XohhHk8DLEVWYWv9cjiyeQo7eDiM2PMgtayBlDGHnEgR4krHPe-B-x6IkXR_FCtq1WlbhLFU1i7_uA0rHqwTrJipa4bQdROFDEj2IzbvhK0USUGtehluZvkiTeZQFU0Lc9A6Pd0CSffCFQuVj9tq-dDq2qyMVijb-7wTlNTyZttUMIGs" target="_blank"/>
+                <mj-text font-weight="bold" font-size="18px" font-family="georgia, times new roman, serif">
+                    Conversations: Engage with customers in real time
+                </mj-text>
+                <mj-text color="grey" line-height="20px" font-family="georgia, times new roman, serif">
+                    Bring your one-on-one customer interactions under one roof for better control and efficiency. Connect with customers on Live Chat, Facebook Messenger, or Instagram — wherever's best for them.                
+                </mj-text>
+                <mj-text font-weight="bold" font-family="georgia, times new roman, serif">
+                    <a href="https://beeag.r.bh.d.sendibt3.com/tr/cl/62L7kWV4UNofZU0fgmWvSgn33dSFcfEoZw0TsS2UyQhhErOGOka3IDb1LCGfU7VE-9NCYwP1_DLyFsaAJXyVDZDz4U-AtVbBsHSmGPHhTl7dVpNOwGWp9krl2-_WWlStOz8ewQ4Az-uvkYzF9SAfmYVAzRW3VLH4liP3q6qJtBfH7MteqFCXofFu1Vyk1YYg0WJvWWz2_T5AKhwHVGcsNy6XohhHk8DLEVWYWv9cjiyeQo7eDiM2PMgtayBlDGHnEgR4krHPe-B-x6IkXR_FCtq1WlbhLFU1i7_uA0rHqwTrJipa4bQdROFDEj2IzbvhK0USUGtehluZvkiTeZQFU0Lc9A6Pd0CSffCFQuVj9tq-dDq2qyMVijb-7wTlNTyZttUMIGs" target="_blank" style="text-decoration: none; color:#0092ff">>   Try Conversations</a>
+                </mj-text>
+
+                <mj-image src="img/transactional-pic.jpeg" alt="" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/LzQHyJIhpJUafIA_CbTgQOTasasqo7qcjbR7DNpSsHwYyGLRMcG7FZCYXxt4jWcjuxqwydxf60Qi12Ols8y-qKjYEdv2wdoxj_A3HstUykVHLtyz5Qtz6gnx9SrHycAAXaKAK8tteR7yT2kMNpQUx1hEVJxnOe4Ax7bcEE_7yMPVm2qCEU_aJ5H06Fk7Yyp2hEJcRX5epHiwWSt617QXodYPQY_c3aLRGuIh-UMOGDoVcea-hNPR2ocPrHsadJ3rEfnYjropogyQ-G-R6l9X8EGRrpvuoUIv2gwOnkW1fdiic9hLTdXUZsmLBKa8FbUXh8l7iB0osGfr45tD5ng5CFjWkMluxAtN4OP65EYNhn1No4c" target="_blank"/>
+                <mj-text font-weight="bold" font-size="18px" font-family="georgia, times new roman, serif">
+                    Transactional emails: Send your most important messages with confidence
+                </mj-text>
+                <mj-text color="grey" line-height="20px" font-family="georgia, times new roman, serif">
+                    Send millions of personalized transactional emails instantly and with outstanding deliverability.                
+                </mj-text>
+                <mj-text font-weight="bold" font-family="georgia, times new roman, serif">
+                    <a href="https://beeag.r.bh.d.sendibt3.com/tr/cl/LzQHyJIhpJUafIA_CbTgQOTasasqo7qcjbR7DNpSsHwYyGLRMcG7FZCYXxt4jWcjuxqwydxf60Qi12Ols8y-qKjYEdv2wdoxj_A3HstUykVHLtyz5Qtz6gnx9SrHycAAXaKAK8tteR7yT2kMNpQUx1hEVJxnOe4Ax7bcEE_7yMPVm2qCEU_aJ5H06Fk7Yyp2hEJcRX5epHiwWSt617QXodYPQY_c3aLRGuIh-UMOGDoVcea-hNPR2ocPrHsadJ3rEfnYjropogyQ-G-R6l9X8EGRrpvuoUIv2gwOnkW1fdiic9hLTdXUZsmLBKa8FbUXh8l7iB0osGfr45tD5ng5CFjWkMluxAtN4OP65EYNhn1No4c" target="_blank" style="text-decoration: none; color:#0092ff">>  Try Transactional Emails</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#f7f5f5">
+            <mj-column width="65%">
+                <mj-text font-family="georgia, times new roman, serif" font-weight="bold" font-size="22px">
+                    Become a digital marketing expert!
+                </mj-text>
+                <mj-text font-family="georgia, times new roman, serif" line-height="20px">
+                    Get certified in digital marketing for free on <a href="https://beeag.r.bh.d.sendibt3.com/tr/cl/1i_LlnXJGPuUezMyBiDyCen1eQaGva24HXWmndeIALtOtwotH3KfOo0qeBduC20AEOL_Sj4_oKAJrco0CWwkL7hD15QORwDyQPLUtetbxS4Hn-mo5V3vy-2kEtxUNHhXSBUhOE8-IwZF6naPVcleqD9cv-qeTgs_fhsheIsFnMmhmlW_koi2jxL8x7wIhodiRGaNKlKoOPK5U6oqDbGahXCkkB0PTEmWLXtT4oKXT1RXGqDcBqacR32zKRg183-113cjYXyNX-nf9S58JxehmbkhbAPnfy8K4CrLwAda8_hq35_GSIvOo9gCd71XU2zgkk7sOASlqJZPQFLhWPr9ORFJoS1pSTv1SQ" target="_blank" style="text-decoration: none; font-weight: bold; color:#0092ff"> Sendinblue Academy.</a> Make the most of Sendinblue and learn everything you need to know to design an effective digital marketing strategy.
+                </mj-text>
+            </mj-column>
+            <mj-column width="35%">
+                <mj-image src="img/academy.png" alt="Sendinblue Academy" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/tC6uMud9y05d9eFdEjFJnZ23sIU5cTKRt0xojSslpOP7nCWqBUnwyc62EWlbIs-Ao5nX8ij89N0wn0_AdmSNX7miAwOxnX9A2U-Dh-SuJbLKVxM2HIfkXker7Kxn8tHTPVaqeYoDqJxF4_6ze5PElkrJdmKlrkWC1ZRwX5KUDsLY2Q23RX4zK-e4hYLaOufCIbDZkbDJ-e0ZIdnlphRxgEzHd_fVg5Or_dqbvZFerng91Apl82Y-z-IbZqQ9zsgBMwdNJaax0qX8ycZ4ypVekGYj2sHyrRAErbWy99MlwtQ09OqyyCf5KSCwdZ_emrgXPkjHs6IVBmx_BMxZ-XcDh7FsnLF4fFDqmA" target="_blank"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#ffece9">
+            <mj-column width="100%">
+                <mj-image src="img/mail.png" alt="" width="39px" />
+                <mj-text align="center" font-weight="700" font-size="24px" font-family="georgia, times new roman, serif">
+                    Looking for help?
+                </mj-text>
+                <mj-text align="center" font-family="georgia, times new roman, serif" color="#606469">
+                    If you have questions or need assistance with the platform, our support team is always happy to lend a helping hand.
+                </mj-text>
+                <mj-text align="center" font-family="georgia, times new roman, serif" font-weight="bold" font-size="14px">
+                    <a href="mailto:support@sendinblue.com" style="text-decoration: none; color:#0092ff">>   Contact support now</a>
+                </mj-text>
+                <mj-text align="center" font-family="georgia, times new roman, serif" font-weight="bold" font-size="14px">
+                    <a href="https://beeag.r.bh.d.sendibt3.com/tr/cl/I1s_DA6p3drxfYlT0Rb9Yc5XcgUnlUKGd3_OjYJ1s-1fg0inT-k4MXOKprFJ0tIUao1ciS_Uawf7a8CzdKvwOS4XcZOiYMqTu3V3RLoDtV64XgpUf4N2H2ebWVhzLeu-c3ZF8C8GK--vvrxs1S86a-IVtvkcgw9iIS6179tPqM0fdgLBemqm19Z1FVaNYjKGIRb3_ljhJN2SHpAmNQI7iu7p-rLdJ8O2KmQzA3n5swPkwxmhGnJAh2iBro-wW3Q6tHuLyvmIg87TLxhpDYjg64wCd4VoXTMuSSBbqn918Lu_Ag6Qb7QH87RdsKut3QgavYih53R6r9PweiWZtGCWYefE-NrDpTjdCBHG_lQMgJ8" target="_blank" style="text-decoration: none; color:#0092ff">>   Visit Help Center</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-text>
+                    <p>Are you creating this account for a client? If so, consider joining the <a href="https://beeag.r.bh.d.sendibt3.com/tr/cl/C5gFoQ_JApc_VV5atatotVi9vXTCgrZXFg8NR9hwTTieAWHRPoTGOkfT_5lbc-PIHLH0NeYnxsSiTQ8_E6ktbkOxHYv8WHvCMRIyhuSN3YF_T9_yWrPvW4yHhL82VQPGAlcOc87MdAdifXuObioDZc2yMGwB2SiM0Ch_I_nn0KPuMBWyAJJ2_E56xUIzGwysJiNrES7BTGzEUOq6saJIyIdmeTkT7ze0Tbqkzv0XRPCTeeFjmuJrKo2xpgHobzOQSjYeh-MWTpRg4naOrUni5pQ9WbVGxP-aFEGBR7Mz5WJhOk5OKEJOrwFlijvDPwdldxMxxIFdzFjpppFDVVWzbQo3gbx7VbXebxAnYha8WA5kFo8ePT9zgczLptd1" target="_blank" style="text-decoration: none; font-weight: bold; color:#0092ff">Sendinblue Expert Program for agencies and digital professionals.</a></p>
+                    <p>As a Sendinblue Partner, you'll enjoy recurring commission, listing in our directory, and much more.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="30%" vertical-align="middle">
+                <mj-image src="img/marketing-manager.png" alt="" />
+            </mj-column>
+            <mj-column vertical-align="middle">
+                <mj-text color="#606469" font-size="14px" font-family="georgia, times new roman, serif" align="center">
+                    <p>Best,</p>
+                    <p><strong>Maëlys Pellat Bravo</strong></p>
+                    <p>Marketing Manager</p>
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                
+            </mj-column>
+            
+        </mj-section>
+
+        <mj-section background-color="#eeeceb">
+
+            <mj-column >
+                <mj-social icon-size="40px">
+                    <mj-social-element src="img/fb.png" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/KrMKbbQ9yThwXN_WPtKZmAEoezaLhr3mFHLFDABlPko-eOpoF-wx2Lu7TtaxLF_phaZNqih1aB2SCdMOCNmX-GGOpVSzOFlyvxP-Tv9upDS5AJ1BsFnb0tC-cAXsznWuHNZx1X0XzzCZ34fCaYfWl-7U1eSMHfmv_SoFcVGtUX1x-ThQ5eIYTYHNpooAYfZF49MfTUsXLAP8nZmtOVO7VRCH4oBtrufZ1VAYVpdORPWGNnn0E88O8YIS7rxQNitILZG1dfWhwrDkb_RREStVk1_v4bBcJqbkDywr5KRTZi_MBqEJ9I_D8KK3g4KCYogqvlBSVE55PA9K4rWXb9zZziXnxA2OnSF-Aw" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/twitter.png" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/1h3V4v4og6DYftijxiLZ8vlAurAijJgVJxO7F7wGzUpAFg7d8xd3EMzDfALoeyQn7P2IeMC_xZDnOrzKNNaFkk1rOJ_LSFtU6yoQ4gVdEuc1B5HRJbX8fvmpq3q3PEhPkXCsN8R8_w_Fln6-6RmSqEIW0RSl5Wsbv4ilcUUMzk2Up2Ot1etrGdSnW0HUCaW0yrQieM6ZnhrNM9bCaaZDg2kRpgmBQF9cg38PAY5Xs6xj80OTLvqQBo-8iFc4lo1TV0p0Q5wJ4CrUqWKJoOkWbomWLKpjoGpLRhZCUwHeZGGceoCZv48x8CrhtGnmDPEgCxX0q3sdTLk2iVWHkxhjrE-Q5tIZSwnA" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/linkedin.png" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/L1jMLH_TCKSulule6RPO9JGETTJRCh16s0jYptCn6S961eSfjmbqFqvAWZB031UGYCMwQDWxu2A7H0jM3D9_yTIa656CsmTdJIM92hbhTnzVUZ3tCxWufak2PILS9c9tcUYCyYmyYD4hB6zeJxpfLNJdqGEVVajZahfS8SY1aNPdBTSTlPHc1BSwzHi3R9BHckmCEw1bnylInzEDtG-0mgOp1uiV03-9M0sAxw_qjkhbEViFXX8C-vg8nsgcmDIjmkuzM6kZ1DOaj777t7VvYrdM_rb4OyCY2nExGbXW6ZpsJPOulKOVmLWUnjeiQ0GpChRrrCJP-Y3wzBddCmLtY2Kd0eZwBxwL-riwpY1a8dbHjnzxRsDH" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/instagram.png" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/9bN7-95wzxKSQLGIOa9OSLuXSMkqw_adx7xsTpjZ1EyrB6Dr7h_FbjgxDBeQRIS3VWQ32974yKyTgBp2cvXO4T8zcbI7y6T3RH27zEp1Xsa2tCXmqjzUM6l55oEl5g7AuDoMdxL6TctX93AqZpv0v2yFJNTvDUKkB4vSkphpPUxXmIuAEn10zQShK1BFo0kzGiND0tUAyUL-kPA71fZv1jm2W5bW4zHZkuyFAtVkVifb0V7-tr1pqziWSHah1HdLaoc3DqyNJSNlIJN995aisCDBOvJ5VJsIDxZ2lcvcusbyLmAfeAMIdOSZeO3u9IJtgv2zJrOmVY-7d3XLN2A_rmcqiARng-am37fjLRiD" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/youtube.png" href="https://beeag.r.bh.d.sendibt3.com/tr/cl/TV7dkxn_oOVfsGalIfuub8AdTO1Xb3fW-zHJTuw-IjM-IxV7qLG8rZMryJHJqbl-yS5ByYNSxqh-LoOuPkin03A80m5oHCfQ10AX2TJyKAIKPM6caKDw-E21vhrgaY7iH00FrChIaxrzBMUutPCHM9tj9XUBd6PqHv7Hhlb0tZy5VhzH_ffOmsC3XMvG9KWag4r09o7KPeNqP0lrqe-l8BIU21ITyWDiO1Dz5rCtybBwdeqTG-VZadk9Jl_st_UZt0vfKJP3U2uqeXMvNB0lF4eUUgFgc8-rQfPHe9M_Mytlpbet1Cz16Zx4lUjPan56xZ6wQlLy0SZSgce2Zh_JGYUBVPgxNGQBh0933Q" target="_blank"></mj-social-element>
+                </mj-social>
+
+                <mj-table>
+                    <tr style="text-align: center; line-height:12px;">
+                        <td >
+                            <p>This email was sent to <a href="#" style="text-decoration: none; color:#0092ff">blank@blank.blank</a></p>
+                            <p>You received this email because you created a Sendinblue account</p>
+                            <p><a href="https://beeag.r.bh.d.sendibt3.com/tr/cl/4-G0s6dB08GoQp5uBMv_3ihxsGWbZAzOYwKCzAlDp7HaDHX6CUq3yrQp_7va40dbVxig8c0mDfXlhwOciisH93mvZWOh3EnbaOwkBi1fvulpd2VJDjXqUcdzzUzUtqSZLrSR-Inup2Fqf5jsCdu1hcxlJeMseXozkMsB8H4Pz7HudnUPqCGeODqT3AKPEzHzmSPoFBU1I6PbPcxoK__Yha8I498EvoMH9SeztK6z8kBWZpoOFfsU5LqCf1KE89aui8feI8udOiJ_rBeZtkzTcz_K5SPsQ1RJTZKrgcOu42OqWA5vahyyZK_Uz7ABEEDkW9kFGJhBry1iS0uZ_T9KauKfnZuONTYu-q7rEzE_Hab4QEF7GdIlhb48KE0Emaa2aXeBNeBtZGzcRGYiANtRebYqNg0wo1XDhyfJwKsZGjeQmWyrtEEX1mJ9Y9MJlfXrRB6G5wZ-v8YsHePBCP1Kyz3hFBIuhwU4hvEsCZqz9Yo6hAIW0lFuxiVOhdxL9m_Lc6pY6XRftRUGUFOrvsmQA1DBuJ65PsUrXb7gRJXwmXYFZndxnEbY0NYR633YKfaM06iRi_z7GzojYyGJzvPCsRB-AnrD5jj75_ZGuW7-7wi0mxJ5a12qE3zVxZENVEwxuEaFwp78yZ96s-F34rcBC-mOA_z-x9xfTjO5-AK4b0zu9375yELT7A" style="text-decoration: none; color:#0092ff">Unsubscribe here</a></p>
+                        </td>
+                    </tr>
+                    <tr style="text-align: center;">
+                        <td style="line-height: 8px;">
+                            <p>Sent by</p>
+                            <img src="img/sendinblue.png" alt="" width="150px">
+                            <p>7 Rue de Madrid 75008 Paris</p>
+                            <a href="https://beeag.r.bh.d.sendibt3.com/tr/cl/TPt9tI_-diPiGoZpqpD0AeS2mwap-m72A1BsoiKT_QTZVp5IEa_GTewHIUvhBZIBb9HHo491e8q8ZemoWkAChheBjPXx730-bVQ5QDBRGnWD55WAUkE8qMduJg2k2OYY23lDj1ZtXm852nvVEHysdHpoDbtN3DR96Mvs3WXDZFTmKO2YJ18fODphMc7aq1Ik2Dn7x8RCwZ_1yRbNevVOmko33EkxoUGDOVvxRz7sP2LGQc1xyDUM72HO2TvnYYXXG1JznBYHvBVCJvj_2qcumQi1yBaCrPJk7qMI-BshBcz8wsbOUv69AbVPjStUOyghRh1QCP2XBMLDaJcgLMptquFJ1kuQztIpFbkgcdChaA" target="_blank" style="text-decoration: none; color:#0092ff">Contact and support</a>
+                        </td>
+                    </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+        
+        <mj-section>
+            
+        </mj-section>
+        
+    </mj-body>
+    
+</mjml>
